@@ -1,0 +1,43 @@
+const data = [
+  
+    {
+      "id": "1" ,
+      "gender": "male",
+      "name":"rohaman",
+      "contact":"14000 ",
+      "address":"dhaka" ,
+      "img":"https://i.ibb.co/tcLCQRK/tv.webp",
+    
+    },
+    {
+      "id": "2" ,
+      "gender": "male",
+      "name":"alamgir",
+      "contact":"14000 ",
+      "address":"dhaka" ,
+      "img":"https://i.ibb.co/k6QNJzg/computer.webp"
+    
+    },
+    {
+      "id": "3" ,
+      "gender": "male",
+      "name":"patlu",
+      "contact":"14000 ",
+      "address":"dhaka" ,
+      "img":"https://i.ibb.co/KxkcqgH/ceilling-fan.webp"
+    
+    },
+    {
+      "id": "4" ,
+      "gender": "male",
+      "name":"hasan",
+      "contact":"14000 ",
+      "address":"dhaka" ,
+      "img":"https://i.ibb.co/F6kN5jV/lamp.webp "
+    
+    }   
+  
+]
+// console.log(data);
+
+export default data  
